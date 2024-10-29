@@ -76,5 +76,6 @@ app.add(file_input, 2, 1, align='center')
 app.add(file_btn, 3, 1, align='center')
 app.add(result_lbl, 4, 1, align='center')
 
+# Test av ny versjon
 # Run the app
 app.run()
